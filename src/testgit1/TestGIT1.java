@@ -17,7 +17,8 @@ public class TestGIT1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Akash Mishra GIT hub");
-        System.out.println("Akash Mishra GIT hub kirti");
+        System.out.println("Akash Mishra GIT hub s");
+        System.out.println("Akash Mishra GIT hub shagun");
     }
 
 }
